@@ -1,0 +1,11 @@
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.deps.json
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.dll
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\bin\Debug\net5.0\ref\MindboxTest.dll
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.pdb
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.AssemblyInfoInputs.cache
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.AssemblyInfo.cs
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.csproj.CoreCompileInputs.cache
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.dll
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\ref\MindboxTest.dll
+C:\Users\kgeny\source\repos\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.pdb
